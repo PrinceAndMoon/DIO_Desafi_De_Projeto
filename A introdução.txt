@@ -1,0 +1,23 @@
+# Nota do Autor
+
+### Nome: Diogo Castro da Silva
+
+### BootCamp: Database Experience DIO
+
+
+
+##### Quero deixar aqui meu registro:
+
+Venho falar que estou muito feliz em participar deste desafio, pois nunca tinha feito ou participado de algo assim.
+Quero falar também que sou muito grato pela oportunidade que estou tempo de fazer meu primeiro projeto, e da dificuldade que estou tendo, pois jamais tinha mexido com Git e GitHub.
+
+Estou aberto a criticas e sugestões, espero receber feedbacks, positivos e construtivos para a melhoria do mesmo.
+
+Esse pequeno projeto é um resumo do BootCamp Database Experience DIO, espero que todos que vão ler esse projeto, se sintam encorajados a começar um novo projeto ou se encorajem a continuar aquele projeto que esta parado.
+
+Esse resumo é até a parte que estou no bootcamp, ao decorrer do bootcamp adiciono mais coisas, pois esse é só o início.
+
+Desde já meu muito obrigado a todos.
+
+#contratoDeCompromisso
+
