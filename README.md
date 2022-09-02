@@ -1,2 +1,2 @@
-# DIO_Desafi_De_Projeto
+# DIO_Desafio_De_Projeto
 Desafio de projeto DIO
