@@ -1,0 +1,78 @@
+# Primeira Parte - Preparando-se Para a Jornada
+
+
+
+## Curso 2 - Seja Protagonista Neste Bootcamp
+
+### Apresentação e Objetivo
+
+#### Venilton FalnorJr - @falvojr
+
+#### Education Tech Lead na DIO
+
+Aqui, Venilton nos da dicas de como podemos nos destacar em nossa jornada de aprendizagem e como elas aumentam nossa oportunidade de ser contratado por uma grande empresa.
+
+### Percuso
+
+Aqui, Venilton fala um pouco da metodologia de estudo e como o bootcamp **DIO** está dividido.
+
+**Parte 1** - Bootcamp **DIO**: Nossa Metodologia de Ensino
+**Parte 2** - Desafios de Códigos: Entendendo na Prática
+**Parte 3** - Desafios de Projeto: Entendendo na Prática
+**Parte 4** - Dicas Finais e Conclusão
+
+### Desvendado os Bootcamps da DIO
+
+### Bootcamp DIO - Nossa Metodologia de Ensino
+
+#### Principais tipos de conteúdos educacionais:
+
+* **Cursos:** Conceitos essenciais e fundamentação teórica;
+* **Mentorias:** Imersão tecnológica/cultural interativa;
+* **Desafios de Códigos:** Lógica e pensamentos computacional;
+* **Desafios de Projetos**: Prática e criação de portfólio.
+
+### Bootcamps da DIO - Conhecendo Nossa Plataforma
+
+Aqui aprendemos como navegar na plataforma da **DIO**, os campos que podemos utilizar.
+Como acessar nos cursos, bootcamps, forum, **FAQ** e etc...
+
+### Desafios de Código
+
+#### Desafios de código
+
+Aqui aprendemos a funcionabilidade dos desafios de código para nós proposto, na prática.
+O desafio tem como objetivo, desenvolver o nosso pensamento computacional e raciocínio lógico durante nossa jornada.
+
+"Falar é fácil. Mostre-me o código - Linus Torvalds"
+
+### Desafios de Código - Entendendo na Prática com Java
+
+Aqui aprendemos qual a dinâmica de um desafio de código.
+Aprendemos o que é uma enreda e uma saída.
+
+### Desafios de Código - Entendendo na Prática com JavaScript
+
+Aqui é explicado que a linguagem de programação não é importante, já que cada desafio é proposto na linguagem em que o bootcamp que está acontecendo usa.
+O importante é entender o objetivo principal por trás de cada desafio de código.
+
+### Desafios de Projeto
+
+#### Desafios de projeto
+
+Aqui é explicado como podemos realizar o desafio de projeto proposto pelo bootcamp.
+Venilton nos da dicas de como entregar e desenvolver o projeto, e explica que o desafio de projeto em como objetivo promover a criação de um portfólio de projetos consistentes no GitHub.
+
+### Desafios de Projeto - Entendendo na Prática
+
+Aqui aprendemos na prática como construir do zero um projeto, Venilton fala também como funciona a entrega e qual objetivo proposto pelo desafio de projeto.
+
+### Dicas Finais e Conclusão
+
+A conclusão de um Bootcamp coloca seu perfil em destaque para as empresas parceiras da **DIO**.
+
+Então:
+
+* Não desista - Lembre-se que todos começamos do zero.
+* Participe ativamente - Não deixe de tirar suas duvidas no fórum, lembre-se sua duvida pode ser a de alguém.
+* Mantenha seu currículo/perfil atualizado na **DIO** - Lembre-se alguém pode está precisando de um profissional com o seu perfil.
